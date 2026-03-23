@@ -1,0 +1,8 @@
+pydantic
+vllm
+fastapi
+httpx
+requests
+streamlit
+langextract
+uvicorn
